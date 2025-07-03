@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 job_requirements = {
     "experience": ["5 years", "manager", "leadership", "project management"],
     "skills": ["Python", "SQL", "AWS", "machine learning"],
-    "salary_range": {"min": 8000, "max": 12000},  # USD/month
+    "salary_range": {"min": 10000000, "max": 12000000},  # IDR/month
     "certifications": ["PMP", "AWS Certified", "Google Cloud"]
 }
 
@@ -14,7 +14,7 @@ job_requirements = {
 cv = {
     "experience": "4 years as Python Developer with team leadership",
     "skills": "Python, SQL, Docker, Basic AWS",
-    "expected_salary": "$11,500 per month",
+    "expected_salary": "10000000",
     "certifications": "AWS Certified Developer"
 }
 
